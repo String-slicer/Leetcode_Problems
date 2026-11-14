@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/String-slicer/Leetcode_Problems/tree/master/0322-coin-change) |
 | [1288-remove-covered-intervals](https://github.com/String-slicer/Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/String-slicer/Leetcode_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/String-slicer/Leetcode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/String-slicer/Leetcode_Problems/tree/master/3693-climbing-stairs-ii) |
 ## Sorting
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/String-slicer/Leetcode_Problems/tree/master/0322-coin-change) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/String-slicer/Leetcode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/String-slicer/Leetcode_Problems/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
